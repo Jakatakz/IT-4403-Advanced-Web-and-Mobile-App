@@ -1,0 +1,39 @@
+body {
+    background-color: #2b2b2b;
+    color:seashell;
+}
+
+.a3_h {
+    color:crimson;
+    text-align: center;
+}
+.a3_tasks {
+    background-color:#4b4b4b;
+    margin-top: 4%;
+    border: solid #6b6b6b 3px;
+}
+.a3_tasks button {
+    background-color: red;
+    margin-bottom: 10px;
+}
+.a3_taskHeader {
+    color: seashell;
+    text-align:center;
+}
+.a3_tasks { 
+    margin-top: 3%;
+    color:violet;
+    text-align:center;
+}
+#tasks {
+    color:black;
+    background-color: tan;
+}
+#task2 {
+    color:black;
+    background-color: tan;
+}
+#tester {
+    color:cyan;
+    background-color: violet;
+}
